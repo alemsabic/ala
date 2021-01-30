@@ -78,11 +78,6 @@
   ],
   "components": [
     {
-      "name": "ToCPrevNext",
-      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "emvNOL32cmyUrElabo3PCw=="
-    },
-    {
       "name": "GithubSearch",
       "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
       "hash": "GBBZqGNqHHf385Iofnv8Yw=="
@@ -111,6 +106,11 @@
       "name": "CollapseControl",
       "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
       "hash": "qnHCmujOXsfFISWWVyqWPQ=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "emvNOL32cmyUrElabo3PCw=="
     }
   ],
   "renderer": {
