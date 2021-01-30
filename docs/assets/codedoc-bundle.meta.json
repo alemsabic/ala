@@ -2,125 +2,120 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "3OxDpe/Rmhgn1/D8MwIVNg=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "TJd3XMPqc0R+UxjguBY+9w=="
     },
     {
       "name": "installTheme",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/content/theme.ts",
-      "hash": "c+dTr3v0HjBJM/iRDTULLg=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/content/theme.ts",
+      "hash": "jH+OSpgAA2SvQSb10NM38g=="
     },
     {
       "name": "codeSelection",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "3D03nawPECspXWjH74Pf6g=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "+QwhNLZqRTgUK3M+MvNOQg=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "Ss0fBqHsKE8+nXD5hPijPQ=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "BfICA31BmkOPRnWTSx9sEA=="
     },
     {
       "name": "initHintBox",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "qPv9xqKAi1tsPJhz2JGGdw=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "GT0ulhi1PQ7DHCZmIfFOKQ=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "8aTf3DSxcHJqbH2NWd4nEA=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "KtAy7iZOqjlhBxaBeAq4Qg=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "kmIZH9HOy45RmTqoI6292A=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "3CQAM8KyJSP3UBUsT4DZvQ=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "fnkDwZgcDRYjaADw5fOkPQ=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "eWq02CSEICGMx90EXckSKg=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "lAAA8Q1H/+Vgr2OTATwU1g=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "21jvwEK6iZdVvD8fcIEGBA=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "ribSsXJycZxs4HMttlddlQ=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "c7aiYbRRuhAYfBCjnBsK+A=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "G615SiqYTz///foz9zSekQ=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "okBfEhYR1twXHqltcVAkEA=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "zqnJuVP3jdErVdecz2oXGg=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "NrjBFByNOSQTIAaLI8ZVPA=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "ZVfwoa2Ro68q1CXEcnZu8Q=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "sbO/Wlu8Fn8HJKOVcqgt/Q=="
     },
     {
       "name": "copyLineLinks",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
-      "hash": "ZHVTiW4YQuReto00K+s7rg=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "77d60N+ad9fSYvAIz8k9lw=="
     },
     {
       "name": "gatherFootnotes",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
-      "hash": "3/t4Acl5PawGKH/v6Pi/yw=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "qv68ViynDR4s8WA0+oEeWA=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "U8oShcj5tBbj49n81FpM4g=="
     }
   ],
   "components": [
     {
       "name": "ToCPrevNext",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "FRi75tQM2IJCEJqClvYBFg=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "emvNOL32cmyUrElabo3PCw=="
     },
     {
       "name": "GithubSearch",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
-      "hash": "juo68aUo60qJQfakWtUZgg=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "GBBZqGNqHHf385Iofnv8Yw=="
     },
     {
       "name": "ToCToggle",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "tu2NYv2a/U2oboTHbtp85g=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "77lRk/nNlWSJoNHA7Z7kEA=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "VTiQkZprqSp0WRbj890mVA=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "THJmavfA37fMmncPElzCpQ=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "5p/RgT2Mf74iZzUVZwBhbg=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "Ch3USsWh0WGu9WvAyOlT5Q=="
     },
     {
       "name": "TabSelector",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
-      "hash": "N1bILrZiVxUANXITyt1Uag=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "TS0sqCIlRkVs4IMafpkbLQ=="
     },
     {
       "name": "CollapseControl",
-      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "i2pLJ2QrIFbKrwHobzUX7g=="
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "qnHCmujOXsfFISWWVyqWPQ=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "YH1uarZppl8jQ2qDdriEcA=="
+    "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "booxTodm28mWJR5e5TR1eg=="
   }
 }
