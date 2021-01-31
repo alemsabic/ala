@@ -18,8 +18,6 @@ import { GithubSearch } from '/home/runner/work/ala/ala/.codedoc/node_modules/@c
 import { ToCToggle } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
-import { TabSelector } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js';
-import { CollapseControl } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 import { ToCPrevNext } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 
 const components = {
@@ -27,8 +25,6 @@ const components = {
   '77lRk/nNlWSJoNHA7Z7kEA==': ToCToggle,
   'THJmavfA37fMmncPElzCpQ==': DarkModeSwitch,
   'Ch3USsWh0WGu9WvAyOlT5Q==': ConfigTransport,
-  'TS0sqCIlRkVs4IMafpkbLQ==': TabSelector,
-  'qnHCmujOXsfFISWWVyqWPQ==': CollapseControl,
   'emvNOL32cmyUrElabo3PCw==': ToCPrevNext
 };
 
