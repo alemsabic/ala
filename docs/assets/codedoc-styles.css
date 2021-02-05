@@ -85,7 +85,7 @@ body.dark .darklight-0-0-1>.dark {
     display: flex;
     z-index: 102;
     position: fixed;
-    background: rgba(221, 221, 221, 0.85);
+    background: rgba(204, 204, 204, 0.85);
     box-shadow: 0 -2px 6px rgba(0, 0, 0, .03);
     align-items: center;
     backdrop-filter: blur(12px);
@@ -208,11 +208,11 @@ body.dark .darklight-0-0-1>.dark {
     transition: border-color .3s, background .3s;
   }
   .toc-0-0-7 a:hover {
-    background: #dddddd;
+    background: #cccccc;
     text-decoration: none;
   }
   .toc-0-0-7 a.current {
-    background: #dddddd;
+    background: #cccccc;
     border-color: #e7e7e7;
     margin-right: 0;
     border-top-right-radius: 0;
@@ -335,7 +335,7 @@ body {
   width: 100vw;
   margin: 0;
   padding: 0;
-  background: #dddddd;
+  background: #cccccc;
   overflow-x: hidden;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
