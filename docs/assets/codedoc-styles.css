@@ -133,7 +133,7 @@ body.dark .darklight-0-0-1>.dark {
     border: none;
     height: 16px;
     margin: 16px;
-    background: #b1abe0;
+    background: #3720ea;
   }
   .footer-0-0-6 .main>.inside a {
     text-decoration: none;
@@ -145,11 +145,11 @@ body.dark .darklight-0-0-1>.dark {
     transition: background .3s;
   }
   body.dark .footer-0-0-6 .main>.inside hr {
-    background: #315f48;
+    background: #69f0ae;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .footer-0-0-6 .main>.inside hr {
-    background: #315f48;
+    background: #69f0ae;
   }
 }
   .toc-0-0-7 {
@@ -267,7 +267,7 @@ body.dark .darklight-0-0-1>.dark {
     position: fixed;
     font-size: 12px;
     max-height: 45vh;
-    border-left: 1px dashed #b1abe0;
+    border-left: 1px dashed #3720ea;
     margin-left: 64px;
     padding-left: 48px;
     scroll-behavior: initial;
@@ -285,7 +285,7 @@ body.dark .darklight-0-0-1>.dark {
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .contentnav-0-0-10 {
-    border-color: #315f48;
+    border-color: #69f0ae;
   }
   body:not(.dark-mode-animate) .contentnav-0-0-10 a {
     color: #69f0ae;
@@ -295,7 +295,7 @@ body.dark .darklight-0-0-1>.dark {
   }
 }
   body.dark .contentnav-0-0-10 {
-    border-color: #315f48;
+    border-color: #69f0ae;
   }
   body.dark .contentnav-0-0-10 a {
     color: #69f0ae;
@@ -380,10 +380,10 @@ table th, table td {
   text-align: left;
 }
 table th {
-  border-bottom: 1px solid #9F96E2;
+  border-bottom: 1px solid #3720EA;
 }
 table td {
-  border-bottom: 1px solid #b1abe0;
+  border-bottom: 1px solid #3720ea;
 }
 table tr:nth-child(even) {
   background: #eeeeee;
@@ -404,19 +404,19 @@ body.dark-mode-animate table tr:nth-child(even) {
   transition: background .3s;
 }
 body.dark table td {
-  border-color: #315f48;
+  border-color: #69f0ae;
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) table td {
-    border-color: #315f48;
+    border-color: #69f0ae;
   }
 }
 body.dark table th {
-  border-color: #397557;
+  border-color: #69F0AE;
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) table th {
-    border-color: #397557;
+    border-color: #69F0AE;
   }
 }
 body.dark-mode-animate table th, body.dark-mode-animate table td {
@@ -426,17 +426,17 @@ hr {
   border: none;
   margin: 64px;
   background: none;
-  border-top: 1px solid #b1abe0;
+  border-top: 1px solid #3720ea;
 }
 body.dark-mode-animate hr {
   transition: border-color .3s;
 }
 body.dark hr {
-  border-color: #315f48;
+  border-color: #69f0ae;
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) hr {
-    border-color: #315f48;
+    border-color: #69f0ae;
   }
 }
 #-codedoc-toc hr {
