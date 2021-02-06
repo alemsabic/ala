@@ -85,7 +85,7 @@ body.dark .darklight-0-0-1>.dark {
     display: flex;
     z-index: 102;
     position: fixed;
-    background: rgba(204, 204, 204, 0.85);
+    background: rgba(255, 255, 0, 0.85);
     box-shadow: 0 -2px 6px rgba(0, 0, 0, .03);
     align-items: center;
     backdrop-filter: blur(12px);
@@ -133,7 +133,7 @@ body.dark .darklight-0-0-1>.dark {
     border: none;
     height: 16px;
     margin: 16px;
-    background: #3720ea;
+    background: #111111;
   }
   .footer-0-0-6 .main>.inside a {
     text-decoration: none;
@@ -208,11 +208,11 @@ body.dark .darklight-0-0-1>.dark {
     transition: border-color .3s, background .3s;
   }
   .toc-0-0-7 a:hover {
-    background: #cccccc;
+    background: #ff0;
     text-decoration: none;
   }
   .toc-0-0-7 a.current {
-    background: #cccccc;
+    background: #ff0;
     border-color: #e7e7e7;
     margin-right: 0;
     border-top-right-radius: 0;
@@ -267,7 +267,7 @@ body.dark .darklight-0-0-1>.dark {
     position: fixed;
     font-size: 12px;
     max-height: 45vh;
-    border-left: 1px dashed #3720ea;
+    border-left: 1px dashed #111111;
     margin-left: 64px;
     padding-left: 48px;
     scroll-behavior: initial;
@@ -278,7 +278,7 @@ body.dark .darklight-0-0-1>.dark {
   }
 }
   .contentnav-0-0-10 a {
-    color: #3720ea;
+    color: #111111;
     display: block;
     opacity: 0.2;
     text-decoration: none;
@@ -307,7 +307,7 @@ body.dark .darklight-0-0-1>.dark {
     transition: color .3s, opacity .3s;
   }
   .contentnav-0-0-10 a:hover, .contentnav-0-0-10 a.active {
-    color: #3720ea;
+    color: #111111;
     opacity: 1;
   }
   .contentnav-0-0-10 a.h2 {
@@ -331,11 +331,11 @@ body.dark .darklight-0-0-1>.dark {
   -webkit-tap-highlight-color: transparent;
 }
 body {
-  color: #3720ea;
+  color: #111111;
   width: 100vw;
   margin: 0;
   padding: 0;
-  background: #cccccc;
+  background: #ff0;
   overflow-x: hidden;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
@@ -344,7 +344,7 @@ body.dark-mode-animate {
   transition: color .3s, background .3s;
 }
 a {
-  color: #3720ea;
+  color: #111111;
 }
 a:hover {
   text-decoration: underline;
@@ -380,10 +380,10 @@ table th, table td {
   text-align: left;
 }
 table th {
-  border-bottom: 1px solid #3720EA;
+  border-bottom: 1px solid #111111;
 }
 table td {
-  border-bottom: 1px solid #3720ea;
+  border-bottom: 1px solid #111111;
 }
 table tr:nth-child(even) {
   background: #eeeeee;
@@ -426,7 +426,7 @@ hr {
   border: none;
   margin: 64px;
   background: none;
-  border-top: 1px solid #3720ea;
+  border-top: 1px solid #111111;
 }
 body.dark-mode-animate hr {
   transition: border-color .3s;
@@ -504,7 +504,7 @@ iframe {
   border-radius: 3px;
 }
 code {
-  color: #3720ea;
+  color: #111111;
   padding: 4px;
   font-size: .85em;
   background: #eeeeee;
