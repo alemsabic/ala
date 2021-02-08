@@ -88,6 +88,11 @@
       "hash": "77lRk/nNlWSJoNHA7Z7kEA=="
     },
     {
+      "name": "GitterToggle",
+      "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/gitter/index.js",
+      "hash": "EZeb6mNndSUkqZGJDGBmIw=="
+    },
+    {
       "name": "DarkModeSwitch",
       "filename": "/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
       "hash": "THJmavfA37fMmncPElzCpQ=="

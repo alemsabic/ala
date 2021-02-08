@@ -16,6 +16,7 @@ import { copyLineLinks } from '/home/runner/work/ala/ala/.codedoc/node_modules/@
 import { gatherFootnotes } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
 import { GithubSearch } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
+import { GitterToggle } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/gitter/index.js';
 import { DarkModeSwitch } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
 import { ToCPrevNext } from '/home/runner/work/ala/ala/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
@@ -23,6 +24,7 @@ import { ToCPrevNext } from '/home/runner/work/ala/ala/.codedoc/node_modules/@co
 const components = {
   'GBBZqGNqHHf385Iofnv8Yw==': GithubSearch,
   '77lRk/nNlWSJoNHA7Z7kEA==': ToCToggle,
+  'EZeb6mNndSUkqZGJDGBmIw==': GitterToggle,
   'THJmavfA37fMmncPElzCpQ==': DarkModeSwitch,
   'Ch3USsWh0WGu9WvAyOlT5Q==': ConfigTransport,
   'emvNOL32cmyUrElabo3PCw==': ToCPrevNext
