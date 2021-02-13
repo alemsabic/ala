@@ -14,22 +14,24 @@ import { tocHighlight } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_
 import { postNavSearch } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
-import { ToCPrevNext } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
+import { SeeTypo } from '/home/runner/work/alemsorg/alemsorg/.codedoc/components/SeeTypo/index.tsx';
 import { CollapseControl } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 import { GithubSearch } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { GitterToggle } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/gitter/index.js';
 import { DarkModeSwitch } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
+import { ToCPrevNext } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 
 const components = {
-  'dbtzGwAiImZwT8Sg55VY9A==': ToCPrevNext,
+  's4paGggb+weBqHISocHTkA==': SeeTypo,
   'uweWsoPRYG/CuSEwOso4Og==': CollapseControl,
   'MByAr0429v26fq/c+3G47g==': GithubSearch,
   'AZPf18gO4K8GlE3hOdIYDw==': ToCToggle,
   'JtRwMlw5fHvu2648apeMGA==': GitterToggle,
   'UeyWYVds6/qBu/mklyxfQQ==': DarkModeSwitch,
-  'xbtWrmM5jQpYte0ArPu9vA==': ConfigTransport
+  'xbtWrmM5jQpYte0ArPu9vA==': ConfigTransport,
+  'dbtzGwAiImZwT8Sg55VY9A==': ToCPrevNext
 };
 
 const renderer = getRenderer();
