@@ -655,3 +655,6 @@ body.dark code {
   .footnotes-0-0-12>div>marker>p {
     margin: 0;
   }
+  .utterancesTransparentIframe-0-0-13 iframe.utterances-frame {
+    background: transparent;
+  }
