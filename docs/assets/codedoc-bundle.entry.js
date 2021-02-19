@@ -1,6 +1,7 @@
 import { getRenderer } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js';
 import { initJssCs } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js';initJssCs();
 import { installTheme } from '/home/runner/work/alemsorg/alemsorg/.codedoc/content/theme.ts';installTheme();
+import { countCards } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/count-cards.js';countCards();
 import { codeSelection } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js';codeSelection();
 import { sameLineLengthInCodes } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js';sameLineLengthInCodes();
 import { initHintBox } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js';initHintBox();

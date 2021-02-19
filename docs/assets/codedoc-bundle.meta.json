@@ -11,6 +11,11 @@
       "hash": "+W3C4nsx92cplMh2JkOW/g=="
     },
     {
+      "name": "countCards",
+      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/count-cards.js",
+      "hash": "T9Ib3EGY9pfbbuNnO122Xw=="
+    },
+    {
       "name": "codeSelection",
       "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
       "hash": "dvjakgw/6cG7UfusyT7E0g=="
