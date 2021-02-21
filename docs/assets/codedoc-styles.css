@@ -79,11 +79,11 @@ body.dark .darklight-0-0-2>.dark {
     transition: color .15s;
   }
   body.dark .collapse-0-0-3>.label:hover {
-    color: #eee;
+    color: #bbb;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .collapse-0-0-3>.label:hover {
-    color: #eee;
+    color: #bbb;
   }
 }
   body.dark-mode-animate .collapse-0-0-3>.label .icon-font {
@@ -308,20 +308,20 @@ body.dark .darklight-0-0-2>.dark {
     border-color: rgba(255,255,255,0.2);
   }
   body:not(.dark-mode-animate) .contentnav-0-0-9 a {
-    color: #eee;
+    color: #bbb;
   }
   body:not(.dark-mode-animate) .contentnav-0-0-9 a:hover, body:not(.dark-mode-animate) .contentnav-0-0-9 a.active {
-    color: #eee;
+    color: #bbb;
   }
 }
   body.dark .contentnav-0-0-9 {
     border-color: rgba(255,255,255,0.2);
   }
   body.dark .contentnav-0-0-9 a {
-    color: #eee;
+    color: #bbb;
   }
   body.dark .contentnav-0-0-9 a:hover, body.dark .contentnav-0-0-9 a.active {
-    color: #eee;
+    color: #bbb;
   }
   body.dark-mode-animate .contentnav-0-0-9 a {
     transition: color .3s, opacity .3s;
@@ -375,11 +375,11 @@ body.dark-mode-animate a {
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) a {
-    color: #eee;
+    color: #bbb;
   }
 }
 body.dark a {
-  color: #eee;
+  color: #bbb;
 }
 .container {
   margin: 0 auto;
@@ -432,11 +432,11 @@ body.dark table td {
   }
 }
 body.dark table th {
-  border-color: #F5F5F5;
+  border-color: #D5D5D5;
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) table th {
-    border-color: #F5F5F5;
+    border-color: #D5D5D5;
   }
 }
 body.dark-mode-animate table th, body.dark-mode-animate table td {
@@ -490,11 +490,11 @@ body.dark-mode-animate blockquote:after {
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) {
-    color: #eee;
+    color: #bbb;
     background: #000000;
   }
   body:not(.dark-mode-animate) blockquote {
-    color: #eee;
+    color: #bbb;
     background: #000;
   }
   body:not(.dark-mode-animate) blockquote:after {
@@ -503,11 +503,11 @@ body.dark-mode-animate blockquote:after {
   }
 }
 body.dark {
-  color: #eee;
+  color: #bbb;
   background: #000000;
 }
 body.dark blockquote {
-  color: #eee;
+  color: #bbb;
   background: #000;
 }
 body.dark blockquote:after {
@@ -534,12 +534,12 @@ body.dark-mode-animate code {
   transition: color .3s, background .3s;
 }
 body.dark code {
-  color: #eee;
+  color: #bbb;
   background: #000;
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) code {
-    color: #eee;
+    color: #bbb;
     background: #000;
   }
 }
@@ -645,19 +645,19 @@ body.dark code {
   }
   body.dark .button-0-0-17 {
     color: #000000;
-    background: #eee;
-    border-color: #eee;
+    background: #bbb;
+    border-color: #bbb;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .button-0-0-17 {
     color: #000000;
-    background: #eee;
-    border-color: #eee;
+    background: #bbb;
+    border-color: #bbb;
   }
   body:not(.dark-mode-animate) .button-0-0-17[disabled] {
     color: #000000;
-    border: rgba(238, 238, 238, 0.35);
-    background: rgba(238, 238, 238, 0.35);
+    border: rgba(187, 187, 187, 0.35);
+    background: rgba(187, 187, 187, 0.35);
   }
 }
   .button-0-0-17:hover:not([disabled]) {
@@ -666,19 +666,19 @@ body.dark code {
     text-decoration: none;
   }
   body.dark .button-0-0-17:hover:not([disabled]) {
-    color: #eee;
+    color: #bbb;
     background: transparent;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .button-0-0-17:hover:not([disabled]) {
-    color: #eee;
+    color: #bbb;
     background: transparent;
   }
 }
   body.dark .button-0-0-17[disabled] {
     color: #000000;
-    border: rgba(238, 238, 238, 0.35);
-    background: rgba(238, 238, 238, 0.35);
+    border: rgba(187, 187, 187, 0.35);
+    background: rgba(187, 187, 187, 0.35);
   }
 a.button-0-0-17 {
   height: 28px;
