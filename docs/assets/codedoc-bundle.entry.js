@@ -23,6 +23,7 @@ import { DarkModeSwitch } from '/home/runner/work/alemsorg/alemsorg/.codedoc/nod
 import { ConfigTransport } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
 import { SeeTypo } from '/home/runner/work/alemsorg/alemsorg/.codedoc/components/SeeTypo/index.tsx';
 import { ToCPrevNext } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
+import { SeeTypoDe } from '/home/runner/work/alemsorg/alemsorg/.codedoc/components/SeeTypoDe/index.tsx';
 
 const components = {
   'uweWsoPRYG/CuSEwOso4Og==': CollapseControl,
@@ -32,7 +33,8 @@ const components = {
   'UeyWYVds6/qBu/mklyxfQQ==': DarkModeSwitch,
   'xbtWrmM5jQpYte0ArPu9vA==': ConfigTransport,
   's4paGggb+weBqHISocHTkA==': SeeTypo,
-  'dbtzGwAiImZwT8Sg55VY9A==': ToCPrevNext
+  'dbtzGwAiImZwT8Sg55VY9A==': ToCPrevNext,
+  '8pmc0mK1nuG80gBHCV98fA==': SeeTypoDe
 };
 
 const renderer = getRenderer();
