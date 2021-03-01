@@ -21,8 +21,8 @@ import { ToCToggle } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_mod
 import { GitterToggle } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/gitter/index.js';
 import { DarkModeSwitch } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
-import { ToCPrevNext } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { SeeTypo } from '/home/runner/work/alemsorg/alemsorg/.codedoc/components/SeeTypo/index.tsx';
+import { ToCPrevNext } from '/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { SeeTypoDe } from '/home/runner/work/alemsorg/alemsorg/.codedoc/components/SeeTypoDe/index.tsx';
 
 const components = {
@@ -32,8 +32,8 @@ const components = {
   'JtRwMlw5fHvu2648apeMGA==': GitterToggle,
   'UeyWYVds6/qBu/mklyxfQQ==': DarkModeSwitch,
   'xbtWrmM5jQpYte0ArPu9vA==': ConfigTransport,
-  'dbtzGwAiImZwT8Sg55VY9A==': ToCPrevNext,
   's4paGggb+weBqHISocHTkA==': SeeTypo,
+  'dbtzGwAiImZwT8Sg55VY9A==': ToCPrevNext,
   '8pmc0mK1nuG80gBHCV98fA==': SeeTypoDe
 };
 
