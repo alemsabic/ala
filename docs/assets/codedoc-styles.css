@@ -671,3 +671,43 @@ body.dark code {
   .utterancesTransparentIframe-0-0-15 iframe.utterances-frame {
     background: transparent;
   }
+  .h-0-0-16.white {
+    color: white;
+  }
+  .h-0-0-16.black {
+    color: black;
+  }
+  .h-0-0-16.primary {
+    color: #000;
+  }
+  .h-0-0-16.primary-contrast {
+    color: #fffd53;
+  }
+  .h-0-0-16.text {
+    color: #000;
+  }
+  .h-0-0-16.background {
+    color: #fffd53;
+  }
+  body.dark .h-0-0-16.background {
+    color: #007;
+  }
+  body.dark .h-0-0-16.text {
+    color: #eee;
+  }
+@media (prefers-color-scheme: dark) {
+  body:not(.dark-mode-animate) .h-0-0-16.text {
+    color: #eee;
+  }
+}
+  body.dark .h-0-0-16.primary-contrast {
+    color: #007;
+  }
+  body.dark .h-0-0-16.primary {
+    color: #eee;
+  }
+@media (prefers-color-scheme: dark) {
+  body:not(.dark-mode-animate) .h-0-0-16.primary {
+    color: #eee;
+  }
+}
