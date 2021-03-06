@@ -668,46 +668,46 @@ body.dark code {
   .footnotes-0-0-14>div>marker>p {
     margin: 0;
   }
-  .utterancesTransparentIframe-0-0-15 iframe.utterances-frame {
-    background: transparent;
-  }
-  .h-0-0-16.white {
+  .h-0-0-15.white {
     color: white;
   }
-  .h-0-0-16.black {
+  .h-0-0-15.black {
     color: black;
   }
-  .h-0-0-16.primary {
+  .h-0-0-15.primary {
     color: #000;
   }
-  .h-0-0-16.primary-contrast {
+  .h-0-0-15.primary-contrast {
     color: #fffd53;
   }
-  .h-0-0-16.text {
+  .h-0-0-15.text {
     color: #000;
   }
-  .h-0-0-16.background {
+  .h-0-0-15.background {
     color: #fffd53;
   }
-  body.dark .h-0-0-16.background {
+  body.dark .h-0-0-15.background {
     color: #007;
   }
-  body.dark .h-0-0-16.text {
+  body.dark .h-0-0-15.text {
     color: #eee;
   }
 @media (prefers-color-scheme: dark) {
-  body:not(.dark-mode-animate) .h-0-0-16.text {
+  body:not(.dark-mode-animate) .h-0-0-15.text {
     color: #eee;
   }
 }
-  body.dark .h-0-0-16.primary-contrast {
+  body.dark .h-0-0-15.primary-contrast {
     color: #007;
   }
-  body.dark .h-0-0-16.primary {
+  body.dark .h-0-0-15.primary {
     color: #eee;
   }
 @media (prefers-color-scheme: dark) {
-  body:not(.dark-mode-animate) .h-0-0-16.primary {
+  body:not(.dark-mode-animate) .h-0-0-15.primary {
     color: #eee;
   }
 }
+  .utterancesTransparentIframe-0-0-16 iframe.utterances-frame {
+    background: transparent;
+  }
