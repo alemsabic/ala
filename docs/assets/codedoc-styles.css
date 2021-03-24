@@ -658,16 +658,16 @@ body.dark code {
     opacity: 0;
   }
 }
-  .footnotes-0-0-14>div {
+  .utterancesTransparentIframe-0-0-14 iframe.utterances-frame {
+    background: transparent;
+  }
+  .footnotes-0-0-15>div {
     display: flex;
   }
-  .footnotes-0-0-14>div>span {
+  .footnotes-0-0-15>div>span {
     font-weight: bold;
     margin-right: 16px;
   }
-  .footnotes-0-0-14>div>marker>p {
+  .footnotes-0-0-15>div>marker>p {
     margin: 0;
-  }
-  .utterancesTransparentIframe-0-0-15 iframe.utterances-frame {
-    background: transparent;
   }
