@@ -37,7 +37,7 @@
     opacity: 1;
   }
   .button-0-0-4 {
-    color: #fffd53;
+    color: rgba(225,228,232);
     border: 2px solid #000;
     cursor: pointer;
     height: 40px;
@@ -65,23 +65,23 @@
     min-width: 0;
   }
   .button-0-0-4[disabled] {
-    color: #fffd53;
+    color: rgba(225,228,232);
     border: rgba(0, 0, 0, 0.35);
     background: rgba(0, 0, 0, 0.35);
   }
   body.dark .button-0-0-4 {
-    color: #007;
+    color: rgba(42,42,42);
     background: #eee;
     border-color: #eee;
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .button-0-0-4 {
-    color: #007;
+    color: rgba(42,42,42);
     background: #eee;
     border-color: #eee;
   }
   body:not(.dark-mode-animate) .button-0-0-4[disabled] {
-    color: #007;
+    color: rgba(42,42,42);
     border: rgba(238, 238, 238, 0.35);
     background: rgba(238, 238, 238, 0.35);
   }
@@ -102,7 +102,7 @@
   }
 }
   body.dark .button-0-0-4[disabled] {
-    color: #007;
+    color: rgba(42,42,42);
     border: rgba(238, 238, 238, 0.35);
     background: rgba(238, 238, 238, 0.35);
   }
@@ -184,7 +184,7 @@ a.button-0-0-4.icon {
     display: flex;
     z-index: 102;
     position: fixed;
-    background: rgba(255, 253, 83, 0.85);
+    background: rgba(225, 228, 232, 0.85);
     box-shadow: 0 -2px 6px rgba(0, 0, 0, .03);
     align-items: center;
     backdrop-filter: blur(12px);
@@ -196,11 +196,11 @@ a.button-0-0-4.icon {
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .footer-0-0-7 {
-    background: rgba(0, 0, 119, 0.85);
+    background: rgba(42, 42, 42, 0.85);
   }
 }
   body.dark .footer-0-0-7 {
-    background: rgba(0, 0, 119, 0.85);
+    background: rgba(42, 42, 42, 0.85);
   }
   .footer-0-0-7 .main {
     overflow: hidden;
@@ -260,7 +260,7 @@ a.button-0-0-4.icon {
     z-index: 101;
     position: fixed;
     transform: translateX(-50vw);
-    background: rgba(255,253,83,0.4);
+    background: rgba(225,228,232,0.4);
     border-right: 1px solid rgba(0,0,0,0.2);
     flex-direction: column;
     padding-bottom: 64px;
@@ -269,12 +269,12 @@ a.button-0-0-4.icon {
     transition: background .3s, border-color .3s;
   }
   body.dark .toc-0-0-8 {
-    background: rgba(0,0,119,0.4);
+    background: rgba(42,42,42,0.4);
     border-color: rgba(255,255,255,0.2);
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-8 {
-    background: rgba(0,0,119,0.4);
+    background: rgba(42,42,42,0.4);
     border-color: rgba(255,255,255,0.2);
   }
 }
@@ -307,23 +307,23 @@ a.button-0-0-4.icon {
     transition: border-color .3s, background .3s;
   }
   .toc-0-0-8 a:hover {
-    background: #fffd53;
+    background: rgba(225,228,232);
     text-decoration: none;
   }
   .toc-0-0-8 a.current {
-    background: #fffd53;
+    background: rgba(225,228,232);
     border-color: rgba(0,0,0,0.2);
     margin-right: 0;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
   }
   body.dark .toc-0-0-8 a.current {
-    background: hsl(240, 100%, 23.8%);
+    background: hsl(0, 0%, 16.8%);
     border-color: rgba(255,255,255,0.2);
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-8 a.current {
-    background: #007;
+    background: rgba(42,42,42);
     border-color: rgba(255,255,255,0.2);
   }
 }
@@ -335,11 +335,11 @@ a.button-0-0-4.icon {
   }
 }
   body.dark .toc-0-0-8 a:hover {
-    background: hsl(240, 100%, 23.8%);
+    background: hsl(0, 0%, 16.8%);
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-8 a:hover {
-    background: hsl(240, 100%, 23.8%);
+    background: hsl(0, 0%, 16.8%);
   }
 }
   body.dark-mode-animate .toc-0-0-8.animated {
@@ -434,7 +434,7 @@ body {
   width: 100vw;
   margin: 0;
   padding: 0;
-  background: #fffd53;
+  background: rgba(225,228,232);
   overflow-x: hidden;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
@@ -485,18 +485,18 @@ table td {
   border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 table tr:nth-child(even) {
-  background: #fffd53;
+  background: rgba(225,228,232);
   border-radius: 3px;
 }
 table tr:last-child > td {
   border-bottom: none;
 }
 body.dark table tr:nth-child(even) {
-  background: #007;
+  background: rgba(42,42,42);
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) table tr:nth-child(even) {
-    background: #007;
+    background: rgba(42,42,42);
   }
 }
 body.dark-mode-animate table tr:nth-child(even) {
@@ -547,7 +547,7 @@ blockquote {
   margin: 0;
   padding: 16px 40px;
   position: relative;
-  background: #fffd53;
+  background: rgba(225,228,232);
   border-radius: 3px;
 }
 body.dark-mode-animate blockquote {
@@ -570,11 +570,11 @@ body.dark-mode-animate blockquote:after {
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) {
     color: #eee;
-    background: #007;
+    background: rgba(42,42,42);
   }
   body:not(.dark-mode-animate) blockquote {
     color: #eee;
-    background: #007;
+    background: rgba(42,42,42);
   }
   body:not(.dark-mode-animate) blockquote:after {
     background: radial-gradient(circle at center, rgba(255,255,255,0.2) 50%, transparent 52%),transparent;
@@ -583,11 +583,11 @@ body.dark-mode-animate blockquote:after {
 }
 body.dark {
   color: #eee;
-  background: #007;
+  background: rgba(42,42,42);
 }
 body.dark blockquote {
   color: #eee;
-  background: #007;
+  background: rgba(42,42,42);
 }
 body.dark blockquote:after {
   background: radial-gradient(circle at center, rgba(255,255,255,0.2) 50%, transparent 52%),transparent;
@@ -606,7 +606,7 @@ code {
   color: #000;
   padding: 4px;
   font-size: .85em;
-  background: #fffd53;
+  background: rgba(225,228,232);
   border-radius: 3px;
 }
 body.dark-mode-animate code {
@@ -614,12 +614,12 @@ body.dark-mode-animate code {
 }
 body.dark code {
   color: #eee;
-  background: #007;
+  background: rgba(42,42,42);
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) code {
     color: #eee;
-    background: #007;
+    background: rgba(42,42,42);
   }
 }
   .center-0-0-12 {
@@ -660,14 +660,4 @@ body.dark code {
 }
   .utterancesTransparentIframe-0-0-14 iframe.utterances-frame {
     background: transparent;
-  }
-  .footnotes-0-0-15>div {
-    display: flex;
-  }
-  .footnotes-0-0-15>div>span {
-    font-weight: bold;
-    margin-right: 16px;
-  }
-  .footnotes-0-0-15>div>marker>p {
-    margin: 0;
   }
