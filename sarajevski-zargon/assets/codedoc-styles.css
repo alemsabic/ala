@@ -668,8 +668,8 @@ body.dark code {
   .caption-0-0-14:hover {
     opacity: 1;
   }
-  .center-0-0-15 {
-    text-align: center;
+  .utterancesTransparentIframe-0-0-15 iframe.utterances-frame {
+    background: transparent;
   }
   .darklight-0-0-16 {
     overflow: hidden;
@@ -704,6 +704,3 @@ body.dark code {
     opacity: 0;
   }
 }
-  .utterancesTransparentIframe-0-0-17 iframe.utterances-frame {
-    background: transparent;
-  }
