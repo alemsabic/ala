@@ -38,7 +38,7 @@
   }
   .button-0-0-4 {
     color: #fffd83;
-    border: 2px solid #333;
+    border: 2px solid #444;
     cursor: pointer;
     height: 40px;
     margin: 8px;
@@ -47,7 +47,7 @@
     padding: 4px 16px;
     font-size: 16px;
     min-width: 96px;
-    background: #333;
+    background: #444;
     align-items: center;
     margin-right: 0;
     border-radius: 3px;
@@ -66,8 +66,8 @@
   }
   .button-0-0-4[disabled] {
     color: #fffd83;
-    border: rgba(51, 51, 51, 0.35);
-    background: rgba(51, 51, 51, 0.35);
+    border: rgba(68, 68, 68, 0.35);
+    background: rgba(68, 68, 68, 0.35);
   }
   body.dark .button-0-0-4 {
     color: #333;
@@ -87,7 +87,7 @@
   }
 }
   .button-0-0-4:hover:not([disabled]) {
-    color: #333;
+    color: #444;
     background: transparent;
     text-decoration: none;
   }
@@ -154,7 +154,7 @@ a.button-0-0-4.icon {
     margin-right: 32px;
   }
   .collapse-0-0-5>.label:hover {
-    color: #333;
+    color: #444;
     transition: color .15s;
   }
   body.dark .collapse-0-0-5>.label:hover {
@@ -377,7 +377,7 @@ a.button-0-0-4.icon {
   }
 }
   .contentnav-0-0-11 a {
-    color: #333;
+    color: #444;
     display: block;
     opacity: 0.2;
     text-decoration: none;
@@ -406,7 +406,7 @@ a.button-0-0-4.icon {
     transition: color .3s, opacity .3s;
   }
   .contentnav-0-0-11 a:hover, .contentnav-0-0-11 a.active {
-    color: #333;
+    color: #444;
     opacity: 1;
   }
   .contentnav-0-0-11 a.h2 {
@@ -430,7 +430,7 @@ a.button-0-0-4.icon {
   -webkit-tap-highlight-color: transparent;
 }
 body {
-  color: #333;
+  color: #444;
   width: 100vw;
   margin: 0;
   padding: 0;
@@ -443,7 +443,7 @@ body.dark-mode-animate {
   transition: color .3s, background .3s;
 }
 a {
-  color: #333;
+  color: #444;
 }
 a:hover {
   text-decoration: underline;
@@ -479,7 +479,7 @@ table th, table td {
   text-align: left;
 }
 table th {
-  border-bottom: 1px solid #1F1F1F;
+  border-bottom: 1px solid #2A2A2A;
 }
 table td {
   border-bottom: 1px solid rgba(0,0,0,0.2);
@@ -603,7 +603,7 @@ iframe {
   border-radius: 3px;
 }
 code {
-  color: #333;
+  color: #444;
   padding: 4px;
   font-size: .85em;
   background: #fffd83;
@@ -622,17 +622,63 @@ body.dark code {
     background: #333;
   }
 }
-  .center-0-0-12 {
+  body.dark .hero-0-0-12[data-mode="light"] {
+    display: none;
+  }
+@media (prefers-color-scheme: dark) {
+  body:not(.dark-mode-animate) .hero-0-0-12[data-mode="light"] {
+    display: none;
+  }
+}
+  body.dark-mode-animate:not(.dark) .hero-0-0-12[data-mode="dark"] {
+    display: none;
+  }
+@media (prefers-color-scheme: light) {
+  body:not(.dark-mode-animate) .hero-0-0-12[data-mode="dark"] {
+    display: none;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .hero-0-0-12[data-target="desktop"] {
+    display: none;
+  }
+}
+@media screen and (min-width: 1025px) {
+  .hero-0-0-12[data-target="mobile"] {
+    display: none;
+  }
+}
+  .image-0-0-13 {
+    width: 100vw;
+    max-width: none;
+    margin-left: calc(384px - 50vw);
+  }
+@media screen and (max-width: 768px) {
+  .image-0-0-13 {
+    margin-left: -16px;
+  }
+}
+  .caption-0-0-14 {
+    display: block;
+    opacity: 0.35;
+    font-size: 12px;
+    text-align: center;
+    transition: opacity .15s;
+  }
+  .caption-0-0-14:hover {
+    opacity: 1;
+  }
+  .center-0-0-15 {
     text-align: center;
   }
-  .darklight-0-0-13 {
+  .darklight-0-0-16 {
     overflow: hidden;
     position: relative;
   }
-  body.dark-mode-animate .darklight-0-0-13>.light, .darklight-0-0-13>.dark {
+  body.dark-mode-animate .darklight-0-0-16>.light, .darklight-0-0-16>.dark {
     transition: opacity .3s, z-index .3s;
   }
-  .darklight-0-0-13>.dark {
+  .darklight-0-0-16>.dark {
     top: 0;
     left: 0;
     right: 0;
@@ -640,24 +686,24 @@ body.dark code {
     z-index: -1;
     position: absolute;
   }
-  body.dark .darklight-0-0-13>.dark {
+  body.dark .darklight-0-0-16>.dark {
     opacity: 1;
     z-index: 1;
   }
 @media (prefers-color-scheme: dark) {
-  body:not(.dark-mode-animate) .darklight-0-0-13>.dark {
+  body:not(.dark-mode-animate) .darklight-0-0-16>.dark {
     opacity: 1;
     z-index: 1;
   }
 }
-  body.dark .darklight-0-0-13>.light {
+  body.dark .darklight-0-0-16>.light {
     opacity: 0;
   }
 @media (prefers-color-scheme: dark) {
-  body:not(.dark-mode-animate) .darklight-0-0-13>.light {
+  body:not(.dark-mode-animate) .darklight-0-0-16>.light {
     opacity: 0;
   }
 }
-  .utterancesTransparentIframe-0-0-14 iframe.utterances-frame {
+  .utterancesTransparentIframe-0-0-17 iframe.utterances-frame {
     background: transparent;
   }
