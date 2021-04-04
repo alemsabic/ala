@@ -113,14 +113,14 @@
       "hash": "xbtWrmM5jQpYte0ArPu9vA=="
     },
     {
-      "name": "SeeTypo",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/components/SeeTypo/index.tsx",
-      "hash": "s4paGggb+weBqHISocHTkA=="
-    },
-    {
       "name": "ToCPrevNext",
       "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
       "hash": "dbtzGwAiImZwT8Sg55VY9A=="
+    },
+    {
+      "name": "SeeTypo",
+      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/components/SeeTypo/index.tsx",
+      "hash": "s4paGggb+weBqHISocHTkA=="
     }
   ],
   "renderer": {
