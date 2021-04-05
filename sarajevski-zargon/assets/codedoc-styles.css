@@ -38,7 +38,7 @@
   }
   .button-0-0-4 {
     color: #fffd83;
-    border: 2px solid #444;
+    border: 2px solid #555;
     cursor: pointer;
     height: 40px;
     margin: 8px;
@@ -47,7 +47,7 @@
     padding: 4px 16px;
     font-size: 16px;
     min-width: 96px;
-    background: #444;
+    background: #555;
     align-items: center;
     margin-right: 0;
     border-radius: 3px;
@@ -66,8 +66,8 @@
   }
   .button-0-0-4[disabled] {
     color: #fffd83;
-    border: rgba(68, 68, 68, 0.35);
-    background: rgba(68, 68, 68, 0.35);
+    border: rgba(85, 85, 85, 0.35);
+    background: rgba(85, 85, 85, 0.35);
   }
   body.dark .button-0-0-4 {
     color: #333;
@@ -87,7 +87,7 @@
   }
 }
   .button-0-0-4:hover:not([disabled]) {
-    color: #444;
+    color: #555;
     background: transparent;
     text-decoration: none;
   }
@@ -154,7 +154,7 @@ a.button-0-0-4.icon {
     margin-right: 32px;
   }
   .collapse-0-0-5>.label:hover {
-    color: #444;
+    color: #555;
     transition: color .15s;
   }
   body.dark .collapse-0-0-5>.label:hover {
@@ -377,7 +377,7 @@ a.button-0-0-4.icon {
   }
 }
   .contentnav-0-0-11 a {
-    color: #444;
+    color: #555;
     display: block;
     opacity: 0.2;
     text-decoration: none;
@@ -406,7 +406,7 @@ a.button-0-0-4.icon {
     transition: color .3s, opacity .3s;
   }
   .contentnav-0-0-11 a:hover, .contentnav-0-0-11 a.active {
-    color: #444;
+    color: #555;
     opacity: 1;
   }
   .contentnav-0-0-11 a.h2 {
@@ -430,7 +430,7 @@ a.button-0-0-4.icon {
   -webkit-tap-highlight-color: transparent;
 }
 body {
-  color: #444;
+  color: #555;
   width: 100vw;
   margin: 0;
   padding: 0;
@@ -443,7 +443,7 @@ body.dark-mode-animate {
   transition: color .3s, background .3s;
 }
 a {
-  color: #444;
+  color: #555;
 }
 a:hover {
   text-decoration: underline;
@@ -479,7 +479,7 @@ table th, table td {
   text-align: left;
 }
 table th {
-  border-bottom: 1px solid #2A2A2A;
+  border-bottom: 1px solid #343434;
 }
 table td {
   border-bottom: 1px solid rgba(0,0,0,0.2);
@@ -603,7 +603,7 @@ iframe {
   border-radius: 3px;
 }
 code {
-  color: #444;
+  color: #555;
   padding: 4px;
   font-size: .85em;
   background: #fffd83;
@@ -668,27 +668,30 @@ body.dark code {
   .caption-0-0-14:hover {
     opacity: 1;
   }
-  .footnotes-0-0-15>div {
+  .center-0-0-15 {
+    text-align: center;
+  }
+  .footnotes-0-0-16>div {
     display: flex;
   }
-  .footnotes-0-0-15>div>span {
+  .footnotes-0-0-16>div>span {
     font-weight: bold;
     margin-right: 16px;
   }
-  .footnotes-0-0-15>div>marker>p {
+  .footnotes-0-0-16>div>marker>p {
     margin: 0;
   }
-  .utterancesTransparentIframe-0-0-16 iframe.utterances-frame {
+  .utterancesTransparentIframe-0-0-17 iframe.utterances-frame {
     background: transparent;
   }
-  .darklight-0-0-17 {
+  .darklight-0-0-18 {
     overflow: hidden;
     position: relative;
   }
-  body.dark-mode-animate .darklight-0-0-17>.light, .darklight-0-0-17>.dark {
+  body.dark-mode-animate .darklight-0-0-18>.light, .darklight-0-0-18>.dark {
     transition: opacity .3s, z-index .3s;
   }
-  .darklight-0-0-17>.dark {
+  .darklight-0-0-18>.dark {
     top: 0;
     left: 0;
     right: 0;
@@ -696,21 +699,21 @@ body.dark code {
     z-index: -1;
     position: absolute;
   }
-  body.dark .darklight-0-0-17>.dark {
+  body.dark .darklight-0-0-18>.dark {
     opacity: 1;
     z-index: 1;
   }
 @media (prefers-color-scheme: dark) {
-  body:not(.dark-mode-animate) .darklight-0-0-17>.dark {
+  body:not(.dark-mode-animate) .darklight-0-0-18>.dark {
     opacity: 1;
     z-index: 1;
   }
 }
-  body.dark .darklight-0-0-17>.light {
+  body.dark .darklight-0-0-18>.light {
     opacity: 0;
   }
 @media (prefers-color-scheme: dark) {
-  body:not(.dark-mode-animate) .darklight-0-0-17>.light {
+  body:not(.dark-mode-animate) .darklight-0-0-18>.light {
     opacity: 0;
   }
 }
