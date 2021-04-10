@@ -668,33 +668,30 @@ body.dark code {
     background: #555;
   }
 }
-  .center-0-0-15 {
-    text-align: center;
-  }
-  .footnotes-0-0-16>div {
+  .footnotes-0-0-15>div {
     display: flex;
   }
-  .footnotes-0-0-16>div>span {
+  .footnotes-0-0-15>div>span {
     font-weight: bold;
     margin-right: 16px;
   }
-  .footnotes-0-0-16>div>marker>p {
+  .footnotes-0-0-15>div>marker>p {
     margin: 0;
   }
-  .small-0-0-17 * {
+  .small-0-0-16 * {
     font-size: 12px;
   }
-  .utterancesTransparentIframe-0-0-18 iframe.utterances-frame {
+  .utterancesTransparentIframe-0-0-17 iframe.utterances-frame {
     background: transparent;
   }
-  .darklight-0-0-19 {
+  .darklight-0-0-18 {
     overflow: hidden;
     position: relative;
   }
-  body.dark-mode-animate .darklight-0-0-19>.light, .darklight-0-0-19>.dark {
+  body.dark-mode-animate .darklight-0-0-18>.light, .darklight-0-0-18>.dark {
     transition: opacity .3s, z-index .3s;
   }
-  .darklight-0-0-19>.dark {
+  .darklight-0-0-18>.dark {
     top: 0;
     left: 0;
     right: 0;
@@ -702,21 +699,21 @@ body.dark code {
     z-index: -1;
     position: absolute;
   }
-  body.dark .darklight-0-0-19>.dark {
+  body.dark .darklight-0-0-18>.dark {
     opacity: 1;
     z-index: 1;
   }
 @media (prefers-color-scheme: dark) {
-  body:not(.dark-mode-animate) .darklight-0-0-19>.dark {
+  body:not(.dark-mode-animate) .darklight-0-0-18>.dark {
     opacity: 1;
     z-index: 1;
   }
 }
-  body.dark .darklight-0-0-19>.light {
+  body.dark .darklight-0-0-18>.light {
     opacity: 0;
   }
 @media (prefers-color-scheme: dark) {
-  body:not(.dark-mode-animate) .darklight-0-0-19>.light {
+  body:not(.dark-mode-animate) .darklight-0-0-18>.light {
     opacity: 0;
   }
 }
