@@ -84,7 +84,7 @@ body.dark .hero-0-0-1[data-mode="light"] {
 }
   .button-0-0-7 {
     color: #fffd83;
-    border: 2px solid #8585dd;
+    border: 2px solid #9d9dd8;
     cursor: pointer;
     height: 40px;
     margin: 8px;
@@ -93,7 +93,7 @@ body.dark .hero-0-0-1[data-mode="light"] {
     padding: 4px 16px;
     font-size: 16px;
     min-width: 96px;
-    background: #8585dd;
+    background: #9d9dd8;
     align-items: center;
     margin-right: 0;
     border-radius: 3px;
@@ -133,7 +133,7 @@ body.dark .hero-0-0-1[data-mode="light"] {
   }
 }
   .button-0-0-7:hover:not([disabled]) {
-    color: #8585dd;
+    color: #9d9dd8;
     background: transparent;
     text-decoration: none;
   }
@@ -200,7 +200,7 @@ a.button-0-0-7.icon {
     margin-right: 32px;
   }
   .collapse-0-0-8>.label:hover {
-    color: #8585dd;
+    color: #9d9dd8;
     transition: color .15s;
   }
   body.dark .collapse-0-0-8>.label:hover {
@@ -452,7 +452,7 @@ a.button-0-0-7.icon {
     transition: color .3s, opacity .3s;
   }
   .contentnav-0-0-14 a:hover, .contentnav-0-0-14 a.active {
-    color: #8585dd;
+    color: #9d9dd8;
     opacity: 1;
   }
   .contentnav-0-0-14 a.h2 {
@@ -489,7 +489,7 @@ body.dark-mode-animate {
   transition: color .3s, background .3s;
 }
 a {
-  color: #8585dd;
+  color: #9d9dd8;
 }
 a:hover {
   text-decoration: underline;
@@ -681,17 +681,20 @@ body.dark code {
   .footnotes-0-0-16>div>marker>p {
     margin: 0;
   }
-  .utterancesTransparentIframe-0-0-17 iframe.utterances-frame {
+  .small-0-0-17 * {
+    font-size: 12px;
+  }
+  .utterancesTransparentIframe-0-0-18 iframe.utterances-frame {
     background: transparent;
   }
-  .darklight-0-0-18 {
+  .darklight-0-0-19 {
     overflow: hidden;
     position: relative;
   }
-  body.dark-mode-animate .darklight-0-0-18>.light, .darklight-0-0-18>.dark {
+  body.dark-mode-animate .darklight-0-0-19>.light, .darklight-0-0-19>.dark {
     transition: opacity .3s, z-index .3s;
   }
-  .darklight-0-0-18>.dark {
+  .darklight-0-0-19>.dark {
     top: 0;
     left: 0;
     right: 0;
@@ -699,21 +702,21 @@ body.dark code {
     z-index: -1;
     position: absolute;
   }
-  body.dark .darklight-0-0-18>.dark {
+  body.dark .darklight-0-0-19>.dark {
     opacity: 1;
     z-index: 1;
   }
 @media (prefers-color-scheme: dark) {
-  body:not(.dark-mode-animate) .darklight-0-0-18>.dark {
+  body:not(.dark-mode-animate) .darklight-0-0-19>.dark {
     opacity: 1;
     z-index: 1;
   }
 }
-  body.dark .darklight-0-0-18>.light {
+  body.dark .darklight-0-0-19>.light {
     opacity: 0;
   }
 @media (prefers-color-scheme: dark) {
-  body:not(.dark-mode-animate) .darklight-0-0-18>.light {
+  body:not(.dark-mode-animate) .darklight-0-0-19>.light {
     opacity: 0;
   }
 }
