@@ -15,23 +15,23 @@ import { tocHighlight } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc
 import { postNavSearch } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
 import { gatherFootnotes } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
-import { ToCPrevNext } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { CollapseControl } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
 import { GithubSearch } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { GitterToggle } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/gitter/index.js';
 import { DarkModeSwitch } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
+import { ToCPrevNext } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { SeeTypo } from '/home/runner/work/govor_ulice/govor_ulice/.codedoc/components/SeeTypo/index.tsx';
 
 const components = {
-  '5gmGMndClxzssD0502O/fw==': ToCPrevNext,
   'hl0suM4VGyWK9WxuDSaATw==': CollapseControl,
   'kN5q/BUg4ePxM3tiuRyTGw==': GithubSearch,
   '/zJPluspbY5rOAfXbpmcKg==': ToCToggle,
   '9hq3IyY1t95pSK1lX67E6w==': GitterToggle,
   'YPAIEJYDonq5gAMGRI2sOg==': DarkModeSwitch,
   '5j8zqRdyRU46vw5RmumoGg==': ConfigTransport,
+  '5gmGMndClxzssD0502O/fw==': ToCPrevNext,
   '/l3ho6XmL3LiwD8y7enfHQ==': SeeTypo
 };
 

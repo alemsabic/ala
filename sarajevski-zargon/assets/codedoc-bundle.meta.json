@@ -83,11 +83,6 @@
   ],
   "components": [
     {
-      "name": "ToCPrevNext",
-      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "5gmGMndClxzssD0502O/fw=="
-    },
-    {
       "name": "CollapseControl",
       "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
       "hash": "hl0suM4VGyWK9WxuDSaATw=="
@@ -116,6 +111,11 @@
       "name": "ConfigTransport",
       "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
       "hash": "5j8zqRdyRU46vw5RmumoGg=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "5gmGMndClxzssD0502O/fw=="
     },
     {
       "name": "SeeTypo",
