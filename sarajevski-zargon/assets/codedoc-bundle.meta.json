@@ -2,130 +2,130 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "5UecN8zBJK2eotc1WnQHUg=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "hkzrQ3XfD1st6mkAoB1foQ=="
     },
     {
       "name": "installTheme",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/content/theme.ts",
-      "hash": "+W3C4nsx92cplMh2JkOW/g=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/content/theme.ts",
+      "hash": "B6Cqt7hE0YUX3CmfUaFG4A=="
     },
     {
       "name": "countCards",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/count-cards.js",
-      "hash": "T9Ib3EGY9pfbbuNnO122Xw=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/count-cards.js",
+      "hash": "rVGFO5JmBTrM5OVwDEsvtw=="
     },
     {
       "name": "codeSelection",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "dvjakgw/6cG7UfusyT7E0g=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "AiKjRNL4pF89bDnk1Rj5Wg=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "5BRkaAavR3e0CBlGSiWcow=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "Hk7RS4Jx1aI5anZasprasw=="
     },
     {
       "name": "initHintBox",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "3OOZ8Pb4LXVHKDUbPOKoLw=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "MOqU9FtrW5xzljDTG0YG+g=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "31QGX7Plyfn4ivliyaIaOQ=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "9u5nSf70sYZ+UGcE+TmOvg=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "nyE61cHtozWELOIDCqEsKw=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "OVqK6d6ccnzzGVUDo/HGhA=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "2aYRMZvhUeVFFN0MSMHVtw=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "AaCL5TrbasOZ/13WLs4vZg=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "9X1x5DmRqJgSKhHmUf2XxA=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "jmitv5+Yz+2v32rnJ7/F5g=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "/D53zgVnElP2Gqa9zAyc9A=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "jxZ+ilgKT9OCOHMRPyFnKA=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "OZOAlojbnvJWKlWepHda1g=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "Ru0TAid3uhW4F9XT38eGcA=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "BugvK+Y7Lnz9Krz3iK7zBw=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "1NkYBHylNuKA9nCUxT41Cg=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "Ba9qFt1zHy4vxX5wl19Liw=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "BVUXVRp5ilD+qYFiA1y+Vw=="
     },
     {
       "name": "copyLineLinks",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
-      "hash": "/ypcPQCcJDhmCaKsUt/pJw=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "HSWfzkLKM8jAlKfu/4F0sg=="
     },
     {
       "name": "gatherFootnotes",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
-      "hash": "c6OCUXz2uFTOJbmZ2tGvkQ=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "9st0SSvgdXM/R99moA9bpQ=="
     }
   ],
   "components": [
     {
       "name": "CollapseControl",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "uweWsoPRYG/CuSEwOso4Og=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "hl0suM4VGyWK9WxuDSaATw=="
     },
     {
       "name": "GithubSearch",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
-      "hash": "MByAr0429v26fq/c+3G47g=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "kN5q/BUg4ePxM3tiuRyTGw=="
     },
     {
       "name": "ToCToggle",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "AZPf18gO4K8GlE3hOdIYDw=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "/zJPluspbY5rOAfXbpmcKg=="
     },
     {
       "name": "GitterToggle",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/gitter/index.js",
-      "hash": "JtRwMlw5fHvu2648apeMGA=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/gitter/index.js",
+      "hash": "9hq3IyY1t95pSK1lX67E6w=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "UeyWYVds6/qBu/mklyxfQQ=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "YPAIEJYDonq5gAMGRI2sOg=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "xbtWrmM5jQpYte0ArPu9vA=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "5j8zqRdyRU46vw5RmumoGg=="
     },
     {
       "name": "ToCPrevNext",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "dbtzGwAiImZwT8Sg55VY9A=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "5gmGMndClxzssD0502O/fw=="
     },
     {
       "name": "SeeTypo",
-      "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/components/SeeTypo/index.tsx",
-      "hash": "s4paGggb+weBqHISocHTkA=="
+      "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/components/SeeTypo/index.tsx",
+      "hash": "/l3ho6XmL3LiwD8y7enfHQ=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/home/runner/work/alemsorg/alemsorg/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "shT8ImFpHtSrxArWUqQrIg=="
+    "filename": "/home/runner/work/govor_ulice/govor_ulice/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "fk1/9i+lnbpNxGw2NTS61A=="
   }
 }
