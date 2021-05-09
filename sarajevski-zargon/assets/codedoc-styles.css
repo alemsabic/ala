@@ -278,7 +278,7 @@ a.button-0-0-7.icon {
     border: none;
     height: 16px;
     margin: 16px;
-    background: rgba(102,83,255,0.9);
+    background: rgba(102,83,255,0.7);
   }
   .footer-0-0-10 .main>.inside a {
     text-decoration: none;
@@ -412,7 +412,7 @@ a.button-0-0-7.icon {
     position: fixed;
     font-size: 12px;
     max-height: 45vh;
-    border-left: 1px dashed rgba(102,83,255,0.9);
+    border-left: 1px dashed rgba(102,83,255,0.7);
     margin-left: 64px;
     padding-left: 48px;
     scroll-behavior: initial;
@@ -525,10 +525,10 @@ table th, table td {
   text-align: left;
 }
 table th {
-  border-bottom: 1px solid #5A4AD8;
+  border-bottom: 1px solid #5547C8;
 }
 table td {
-  border-bottom: 1px solid rgba(102,83,255,0.9);
+  border-bottom: 1px solid rgba(102,83,255,0.7);
 }
 table tr:nth-child(even) {
   background: #FEF720;
@@ -571,7 +571,7 @@ hr {
   border: none;
   margin: 64px;
   background: none;
-  border-top: 1px solid rgba(102,83,255,0.9);
+  border-top: 1px solid rgba(102,83,255,0.7);
 }
 body.dark-mode-animate hr {
   transition: border-color .3s;
