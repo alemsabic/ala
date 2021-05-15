@@ -83,7 +83,7 @@ body.dark .hero-0-0-1[data-mode="light"] {
   }
 }
   .button-0-0-7 {
-    color: rgba(255,255,255,0.7);
+    color: rgba(255,255,255,0.85);
     border: 2px solid #3647a4;
     cursor: pointer;
     height: 40px;
@@ -112,22 +112,22 @@ body.dark .hero-0-0-1[data-mode="light"] {
   }
   .button-0-0-7[disabled] {
     color: rgba(221,221,221);
-    border: rgba(68, 68, 68, 0.35);
-    background: rgba(68, 68, 68, 0.35);
+    border: rgba(17, 17, 17, 0.35);
+    background: rgba(17, 17, 17, 0.35);
   }
   body.dark .button-0-0-7 {
-    color: #333;
+    color: #111;
     background: rgba(203,94,59,1);
     border-color: rgba(203,94,59,1);
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .button-0-0-7 {
-    color: #333;
+    color: #111;
     background: rgba(203,94,59,1);
     border-color: rgba(203,94,59,1);
   }
   body:not(.dark-mode-animate) .button-0-0-7[disabled] {
-    color: rgba(68,68,68);
+    color: rgba(17,17,17);
     border: rgba(105, 240, 174, 0.35);
     background: rgba(105, 240, 174, 0.35);
   }
@@ -148,7 +148,7 @@ body.dark .hero-0-0-1[data-mode="light"] {
   }
 }
   body.dark .button-0-0-7[disabled] {
-    color: rgba(68,68,68);
+    color: rgba(17,17,17);
     border: rgba(105, 240, 174, 0.35);
     background: rgba(105, 240, 174, 0.35);
   }
@@ -171,7 +171,7 @@ a.button-0-0-7.icon {
     max-height: 0;
     transition: opacity .3s;
     visibility: hidden;
-    border-left: 2px solid rgba(68, 68, 68, 0.5);
+    border-left: 2px solid rgba(17, 17, 17, 0.5);
     padding-left: 16px;
   }
   .collapse-0-0-8.open>.content {
@@ -242,11 +242,11 @@ a.button-0-0-7.icon {
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .footer-0-0-10 {
-    background: rgba(68, 68, 68, 0.85);
+    background: rgba(17, 17, 17, 0.85);
   }
 }
   body.dark .footer-0-0-10 {
-    background: rgba(68, 68, 68, 0.85);
+    background: rgba(17, 17, 17, 0.85);
   }
   .footer-0-0-10 .main {
     overflow: hidden;
@@ -278,7 +278,7 @@ a.button-0-0-7.icon {
     border: none;
     height: 16px;
     margin: 16px;
-    background: rgba(68,68,68,0.2);
+    background: rgba(17,17,17,0.4);
   }
   .footer-0-0-10 .main>.inside a {
     text-decoration: none;
@@ -315,12 +315,12 @@ a.button-0-0-7.icon {
     transition: background .3s, border-color .3s;
   }
   body.dark .toc-0-0-11 {
-    background: rgba(68,68,68,0.5);
+    background: rgba(17,17,17,0.5);
     border-color: rgba(105,240,174,0.2);
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-11 {
-    background: rgba(68,68,68,0.5);
+    background: rgba(17,17,17,0.5);
     border-color: rgba(105,240,174,0.2);
   }
 }
@@ -364,12 +364,12 @@ a.button-0-0-7.icon {
     border-bottom-right-radius: 0;
   }
   body.dark .toc-0-0-11 a.current {
-    background: hsl(0, 0%, 27.2%);
+    background: hsl(0, 0%, 6.8%);
     border-color: rgba(105,240,174,0.2);
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-11 a.current {
-    background: rgba(68,68,68);
+    background: rgba(17,17,17);
     border-color: rgba(105,240,174,0.2);
   }
 }
@@ -381,11 +381,11 @@ a.button-0-0-7.icon {
   }
 }
   body.dark .toc-0-0-11 a:hover {
-    background: hsl(0, 0%, 27.2%);
+    background: hsl(0, 0%, 6.8%);
   }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) .toc-0-0-11 a:hover {
-    background: hsl(0, 0%, 27.2%);
+    background: hsl(0, 0%, 6.8%);
   }
 }
   body.dark-mode-animate .toc-0-0-11.animated {
@@ -412,7 +412,7 @@ a.button-0-0-7.icon {
     position: fixed;
     font-size: 12px;
     max-height: 45vh;
-    border-left: 1px dashed rgba(68,68,68,0.2);
+    border-left: 1px dashed rgba(17,17,17,0.4);
     margin-left: 64px;
     padding-left: 48px;
     scroll-behavior: initial;
@@ -423,7 +423,7 @@ a.button-0-0-7.icon {
   }
 }
   .contentnav-0-0-14 a {
-    color: rgba(68,68,68);
+    color: rgba(17,17,17);
     display: block;
     opacity: 0.2;
     text-decoration: none;
@@ -476,7 +476,7 @@ a.button-0-0-7.icon {
   -webkit-tap-highlight-color: transparent;
 }
 body {
-  color: rgba(68,68,68);
+  color: rgba(17,17,17);
   width: 100vw;
   margin: 0;
   padding: 0;
@@ -525,10 +525,10 @@ table th, table td {
   text-align: left;
 }
 table th {
-  border-bottom: 1px solid #444444;
+  border-bottom: 1px solid #111111;
 }
 table td {
-  border-bottom: 1px solid rgba(68,68,68,0.2);
+  border-bottom: 1px solid rgba(17,17,17,0.4);
 }
 table tr:nth-child(even) {
   background: rgba(198,198,198);
@@ -538,11 +538,11 @@ table tr:last-child > td {
   border-bottom: none;
 }
 body.dark table tr:nth-child(even) {
-  background: rgba(68,68,68);
+  background: rgba(17,17,17);
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) table tr:nth-child(even) {
-    background: rgba(68,68,68);
+    background: rgba(17,17,17);
   }
 }
 body.dark-mode-animate table tr:nth-child(even) {
@@ -571,7 +571,7 @@ hr {
   border: none;
   margin: 64px;
   background: none;
-  border-top: 1px solid rgba(68,68,68,0.2);
+  border-top: 1px solid rgba(17,17,17,0.4);
 }
 body.dark-mode-animate hr {
   transition: border-color .3s;
@@ -616,11 +616,11 @@ body.dark-mode-animate blockquote:after {
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) {
     color: rgba(105,240,174,1);
-    background: rgba(68,68,68);
+    background: rgba(17,17,17);
   }
   body:not(.dark-mode-animate) blockquote {
     color: #69f0ae;
-    background: rgba(68,68,68);
+    background: rgba(17,17,17);
   }
   body:not(.dark-mode-animate) blockquote:after {
     background: radial-gradient(circle at center, rgba(105,240,174,0.4) 50%, transparent 52%),transparent;
@@ -629,11 +629,11 @@ body.dark-mode-animate blockquote:after {
 }
 body.dark {
   color: rgba(105,240,174,1);
-  background: rgba(68,68,68);
+  background: rgba(17,17,17);
 }
 body.dark blockquote {
   color: #69f0ae;
-  background: rgba(68,68,68);
+  background: rgba(17,17,17);
 }
 body.dark blockquote:after {
   background: radial-gradient(circle at center, rgba(105,240,174,0.4) 50%, transparent 52%),transparent;
@@ -649,7 +649,7 @@ iframe {
   border-radius: 3px;
 }
 code {
-  color: rgba(68,68,68);
+  color: rgba(17,17,17);
   padding: 4px;
   font-size: .85em;
   background: rgba(198,198,198);
@@ -660,12 +660,12 @@ body.dark-mode-animate code {
 }
 body.dark code {
   color: #69f0ae;
-  background: rgba(68,68,68);
+  background: rgba(17,17,17);
 }
 @media (prefers-color-scheme: dark) {
   body:not(.dark-mode-animate) code {
     color: #69f0ae;
-    background: rgba(68,68,68);
+    background: rgba(17,17,17);
   }
 }
   .footnotes-0-0-15>div {
