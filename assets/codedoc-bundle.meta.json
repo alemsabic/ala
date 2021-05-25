@@ -1,0 +1,131 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "yCzw0ODrgCgLPrTjfoJ54w=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/home/runner/work/alems/alems/.codedoc/content/theme.ts",
+      "hash": "0FjaJV2bD7+/+vJAhXYzIQ=="
+    },
+    {
+      "name": "countCards",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/count-cards.js",
+      "hash": "tDGNjNsP1TR7yHFFRgWOkQ=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "Ol6+DC34T4urg4dWkLXZqg=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "ZIoTzXeJEFiJDmaL+C9yug=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "1KRY0joQsUq5+YCbWWxBog=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "WOD4ybDo/3nfdzvlaNVC5w=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "qVLCt+FdIyXdJTDQfNNQIA=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "T2mBoiEFMS09o1+UedOucA=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "SmQhNyJLyhUz7lM001rxdw=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "fkb+MXraY+uE2HDYKEvRaQ=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "n97frkPqobz5PR3JOv5q2Q=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "XPGQjnnH9OdgUCaZKNnP6A=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "hP8nJk4MwrWk5X3pBjmp2A=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "qYNdi9CKnJgO+WhchnyU6g=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "9DnV9s548SigltFHdZ70BA=="
+    }
+  ],
+  "components": [
+    {
+      "name": "CollapseControl",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "wVlaEpLmkYWzaRSh1I5uWQ=="
+    },
+    {
+      "name": "GithubSearch",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "MqRdFpOqVx6Hosh2+D7O3w=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "VM7ETWZnzy5zNZVPBte8wg=="
+    },
+    {
+      "name": "GitterToggle",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/gitter/index.js",
+      "hash": "FcIDsNc9NPUa3TRllf4d8A=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "vMEWluQlt5VPPqUZMsIK+A=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "c9xVz0RnXj7i95SoYcs73A=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "EZ/Ulqkm40kxvHyrnNsnug=="
+    },
+    {
+      "name": "SeeTypo",
+      "filename": "/home/runner/work/alems/alems/.codedoc/components/SeeTypo/index.tsx",
+      "hash": "y2htvIKFfDjuyQ1M7brQEw=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/home/runner/work/alems/alems/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "qBvYMxJW23X+NwRja1AAmA=="
+  }
+}
